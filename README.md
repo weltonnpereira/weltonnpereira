@@ -60,15 +60,6 @@ Focused on **clean architecture, database modeling, automation, and high-perform
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=weltonnpereira&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=weltonnpereira&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Software development is about solving complex logic problems and delivering fast, reliable, and secure tools that drive value."_
